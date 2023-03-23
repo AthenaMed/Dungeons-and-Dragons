@@ -13,7 +13,7 @@ For centuries, rumors of buried riches have attracted treasure seekers and oppor
 ### Your Character in the World
 Characters in this campaign begin at 1st level.
 For this campaign you can select character options
-from the [[Player's Handbook]] and [[Sword Coast Adventurer's Guide]].
+from the [Player's Handbook](https://github.com/AthenaMed/Dungeons-and-Dragons/blob/main/Text%20Books/Player's%20Handbook.md) and S[word Coast Adventuring Guide](https://github.com/AthenaMed/Dungeons-and-Dragons/blob/main/Text%20Books/Sword%20Coast%20Adventurer's%20Guide.md).
 
 Your character is an adventurer that has been recruited to escort a wagon of goods from Neverwinter to Phalandin.
 
