@@ -197,7 +197,7 @@ If you have other rules or limitations or expansions on character creation for y
 ### **Races allowed/disallowed**
 Are there any races you disallow? Do you allow flying races? Do you allow homebrew races? Do you allow Unearthed Arcana Races? Elemental Evil Races? Sword Coast Adventure Guide? Volo's Guide? What about the Magic The Gathering Unearthed Arcana Races? Maybe you will some races with a minor tweak to them?
 
-> Basic Races and races in [[Sword Coast Adventurer's Guide#Races of the Realms]]
+> Races from Player's Handbook](https://github.com/AthenaMed/Dungeons-and-Dragons/blob/main/Text%20Books/Player's%20Handbook.md - Under Races, and races in [Sword Coast Adventurer's Guide](https://github.com/AthenaMed/Dungeons-and-Dragons/blob/main/Text%20Books/Sword%20Coast%20Adventurer's%20Guide.md) - Under Races of the Realms.
 
 ### **Tweaking/reflavor races**
 Can PCs make minor tweaks to a race? Can PCs reflavor a race to be a different race? Do you allow PCs to play races they homebrewed themselves?
@@ -207,7 +207,7 @@ Can PCs make minor tweaks to a race? Can PCs reflavor a race to be a different r
 ### **Classes allowed**
 Are there any classes you disallow? Do you allow homebrew classes or only homebrew classes from recognised sources, such as Matt Mercer and Sterling Vermin? Do you allow Unearthed Arcana classes/sub-classes, e.g. the Unearthed Arcana Mystic? Sword Coast Adventure Guide sub-classes?
 
-> Basic classes and classes in [[Sword Coast Adventurer's Guide#Classes]]
+> Classes from [Player's Handbook](https://github.com/AthenaMed/Dungeons-and-Dragons/blob/main/Text%20Books/Player's%20Handbook.md) - Under Classes, and classes in [Sword Coast Adventurer's Guide](https://github.com/AthenaMed/Dungeons-and-Dragons/blob/main/Text%20Books/Sword%20Coast%20Adventurer's%20Guide.md)
 
 
 
